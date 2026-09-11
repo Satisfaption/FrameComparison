@@ -45,7 +45,7 @@ For example: Open a VOD of hitting the frame, resize the video player until the 
 
 Once selected, the app generates a temporary debug mask file (`debug_mask_output.png`) to extract high-contrast shape outlines for matching. 
 
-![Mask Example Image](debug_mask_output.png)
+![Mask Example Image](images/debug_mask_output.png)
 
 You don't need to do anything with this file, but you can inspect it in your directory to confirm clean shape extraction.
 
