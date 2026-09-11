@@ -1,5 +1,4 @@
 config.json
-debug_mask_output.png
 build/
 dist/
 __pycache__/
